@@ -6,6 +6,6 @@ Este repositório é dedicado à análise de dados do [Portal de Dados Abertos d
 [Servidores](http://nbviewer.jupyter.org/github/ycaroravel/UFRN-Analytics/blob/master/Servidores.ipynb)  
 [Pesquisa](http://nbviewer.jupyter.org/github/ycaroravel/UFRN-Analytics/blob/master/Pesquisa.ipynb)  
 [Ensino](http://nbviewer.jupyter.org/github/ycaroravel/UFRN-Analytics/blob/master/Ensino.ipynb)  
-[Extensão](http://nbviewer.jupyter.org/github/ycaroravel/UFRN-Analytics/blob/master/Extens%C3%A3o.ipynb)  
+[Extensão](http://nbviewer.jupyter.org/github/ycaroravel/UFRN-Analytics/blob/master/Extensao.ipynb)  
 
 
